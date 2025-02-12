@@ -29,6 +29,7 @@ Estimates the time it takes to print an ascii art on 50 baud tty.<br/>
 ## tty_functions.py<br/>
 Basicaly TTY library.<br/>
 <br/>
-Hopefully becomes handy for someone.<br/>
+<br/>
+Maybe it will be useful to someone.<br/>
 <br/>
 All arts are borrowed from here: `http://artscene.textfiles.com/rtty/`<br/>
