@@ -1,0 +1,22 @@
+     .------------------------.   .-------.     .---------.
+       XXXXXXXXXXXXXXXXXXXXXXXXXX:   XXXXXXXXX     :XXXXXXXXXXX
+       XXXXXXXXXXXXXXXXXXXXXXXXXX:  XXXXX'XXXXX    :XXXXXXXXXXXX
+       XXXXXX.------------.XXXX:"" XXXXX. .XXXXX   :XXXX.--.XXXX
+       'XXXXXXX           :XXXX:  XXXXX.   .XXXXX  :XXXX:  :XXXX
+        "XXXXXXX          :XXXX: XXXXX'-----'XXXXX :XXXX'--'XXX
+   .--------XXXXXX        :XXXX:XXXXXXXXXXXXXXXXXXX:XXXX.XXXX.'----.
+   :XXXXXXXXXXXXXXX       :XXXX:XXXXXXX.----.XXXXXX:XXX.'.XXXXXXXXX:
+   :XXXXXXXXXXXXXXX       :XXXX:XXXXXXX:    :XXXXXX:XXX:  'XXXXXXXX:
+   '--------------'       '----'-------'    '------'---'   '-------'
+
+   .---.        .---.     .----.        .--------.        .--------.
+   XXXXX   XX   XXXXX     XXXXXX        :XXXXXXXXXX     .XXXXXXXXXX:
+   'XXXX. XXXX 'XXXX'    XXXXXXXX       :XXXXXXXXXXX   .XXXXXXXXXXX:
+    XXXXX.XXXX.XXXXX    XXXX"XXXXX      :XXX.--.XXXX   'XXXXXX.----'
+    'XXXX.XXXX.XXXX'   XXXX. .XXXXX     :XXX:  :XXXX    'XXXXXX'.
+     XXXXXXXXXXXXXX   XXXX.   .XXXXX    :XXX'--'XXX      'XXXXXXXX.
+     'XXXXX.XXXXXX'  XXXXX'----'XXXXX   :XXX.XXXX.-----------.XXXXX
+      XXXX.  .XXXX  XXXXXXXXXXXXXXXXXX  :XXX. 'XXXXXXXXXXXXXXXXXXXXX
+      'XXX.  .XXX' XXXXXXX.----.XXXXXXX :XXX: 'XXXXXXXXXXXXXXXXXXXX
+      '---'  '---' '------'    '------' '---'  '------------------'
+

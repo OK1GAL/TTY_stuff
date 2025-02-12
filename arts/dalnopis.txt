@@ -1,0 +1,24 @@
+Dalnopis (take Telex nebo Teletype, zkracene TTY)
+je telekomunikacni zarizeni umoznujici bezobsluzny
+datovy prenos textovych zprav po specialnich nebo i
+telefonnich linkach. Jeho princip umoznoval prijimat
+vysilani jedne stanice na neomezenem mnozstvi stanic
+prijimacich. Prvni komercni nasazeni dalnopisu bylo v
+Postal Telegraph Company v Bostonu a New Yorku v roce 1910.
+
+Dalnopis se pouzival napriklad pro prenos zprav pro zpravodajstvi
+vyuzivaly jej zpravodajske agentury pro predavani zprav mezi
+sebou a pro distribuci do jednotlivych redakci.
+Svou vlastni stanici mel vsak v dobach nejvetsi slavy dalnopisu
+kazdy vyznamny podnik.
+
+V tehdejsim Ceskoslovensku byl dalnopis velmi oblibeny.
+Nejrozsirenejsim modelem byl T100, vyrabeny v licenci Siemens
+statnim podnikem Zbrojovka Brno.
+
+Provoz dalnopisne site v CR byl ukoncen 1. cervence 2008.
+V provozu nadale zustala moznost podani telegramu prostrednictvim
+Ceske posty, ta ale skoncila v breznu roku 2010. Technicky jsou 
+jiz telegramy prepravovany bez pouziti dalnopisne technologie
+-- site Gentex urcene pro prepravu telegramu byly ukonceny spolu
+s Telexovou ustrednou.
