@@ -8,7 +8,7 @@ In czech mezera is space => demezerace => remove spaces.<br/>
 ## fileprint.py<br/>
 Takes text file, converts it to baudot and sends it to TTY.<br/>
 Argumensts are tty port, baudrate, file path, print text on tape, text to print on tape<br/>
-example command: 'python3 fileprint.py /dev/ttyUSB0 50 arts/test.txt 1 TEST'<br/>
+example command: `python3 fileprint.py /dev/ttyUSB0 50 arts/test.txt 1 TEST`<br/>
 <br/>
 ## listports.py<br/>
 prints all availaable tty ports<br/>
@@ -31,4 +31,4 @@ Basicaly TTY library.<br/>
 <br/>
 Hopefully becomes handy for someone.<br/>
 <br/>
-All arts are borrowed from here: 'http://artscene.textfiles.com/rtty/'<br/>
+All arts are borrowed from here: `http://artscene.textfiles.com/rtty/`<br/>
