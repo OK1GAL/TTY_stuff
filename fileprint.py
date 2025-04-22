@@ -7,7 +7,7 @@ current_platform = platform.system()
 
 if current_platform == "Windows":
     print("OS suported")
-else:
+else: 
     if current_platform == "Linux":
         print("OS suported")
     else:
